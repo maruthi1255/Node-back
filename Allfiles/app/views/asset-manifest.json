@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "static/css/main.5859bbcb.css",
+    "main.js": "static/js/main.15694382.js",
+    "static/js/787.96b810fc.chunk.js": "static/js/787.96b810fc.chunk.js",
+    "static/media/background.png": "static/media/background.cdd5d50aba793f42fa54.png",
+    "static/media/Olink.png": "static/media/Olink.572a1a5dc0d4d98239c3.png",
+    "index.html": "index.html",
+    "main.5859bbcb.css.map": "static/css/main.5859bbcb.css.map",
+    "main.15694382.js.map": "static/js/main.15694382.js.map",
+    "787.96b810fc.chunk.js.map": "static/js/787.96b810fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5859bbcb.css",
+    "static/js/main.15694382.js"
+  ]
+}
